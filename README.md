@@ -34,7 +34,14 @@ Started taking Couresera ML course as per recommended by multiple ML co-workers,
 ## March 2023
 
 ### Reading
-
+* [(2020)[NLP] Scaling Laws for Neural Language Models](https://arxiv.org/pdf/2001.08361v1.pdf)
+* [(2020)[NLP] Language Models are Few-Shot Learners (GPT3)](https://arxiv.org/pdf/2005.14165.pdf)
+* [(2019)[NLP] Language Models are Unsupervised Multitask Learners (GPT2)](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf#page=12&zoom=100,0,0)
+* [(2018)[NLP] Improving Language Understanding by Generative Pre-Training (GPT1)](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)
+  * [(2018)[NLP] Generating Wikipedia by Summarizing Long Sequences](https://arxiv.org/pdf/1801.10198.pdf): decoder only transformer applied to NLP
+  * [(2016)[NLP] Neural Machine Translation of Rare Words with Subword Units](https://arxiv.org/pdf/1508.07909.pdf): byte pair encoding
+  * [(2012) Japanese and Korean Voice Search](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/37842.pdf): wordpiece encoding
+* [(2016)[NLP] Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/pdf/1409.0473.pdf) Translation by RNN + Attention
 
 ### Video Lectures
-* [Harvard Statistics 110 Probability, Lecture 1 - 27](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
+* [Harvard Statistics 110 Probability, Lecture 8 - 27](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
