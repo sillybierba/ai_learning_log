@@ -30,7 +30,6 @@ Finished probability course and started statistics course.
 * [MIT 18.650 Statistics for Applications, Lecture 1](https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)
 
 ### Practice
-Started taking Couresera ML course as per recommended by multiple ML co-workers, with a focus on gaining hands-on model training/debugging experience.
 * [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/learn/machine-learning)
 
 
@@ -50,6 +49,9 @@ Continued references in [UNIGE 14x050 - Deep Learning](https://fleuret.org/dlc/)
 
 ### Video Lectures
 * [Harvard Statistics 110 Probability, Lecture 4 - 26](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
+
+### Practice
+* [Buildspace AI Avatar Project](https://buildspace.so/builds/ai-avatar)
 
 ## February 2023
 
