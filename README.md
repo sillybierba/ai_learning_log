@@ -49,4 +49,9 @@ Continued references in [UNIGE 14x050 - Deep Learning](https://fleuret.org/dlc/)
   * [(2016)[NLP] Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/pdf/1409.0473.pdf) Translation by RNN + Attention
 
 ### Video Lectures
-* [Harvard Statistics 110 Probability, Lecture 8 - 26](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
+* [Harvard Statistics 110 Probability, Lecture 4 - 26](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
+
+## February 2023
+
+### Video Lectures
+* [Harvard Statistics 110 Probability, Lecture 1 - 3](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
