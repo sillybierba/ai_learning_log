@@ -36,6 +36,7 @@ Started taking Couresera ML course as per recommended by multiple ML co-workers,
 
 ## March 2023
 
+Continued references in [UNIGE 14x050 - Deep Learning](https://fleuret.org/dlc/), [Section 13.3.	Transformer Networks](https://fleuret.org/dlc/materials/dlc-handout-13-3-transformers.pdf).
 ### Reading
 * [(2020)[NLP] Scaling Laws for Neural Language Models](https://arxiv.org/pdf/2001.08361v1.pdf)
 * [(2020)[NLP] Language Models are Few-Shot Learners (GPT3)](https://arxiv.org/pdf/2005.14165.pdf)
