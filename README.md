@@ -26,7 +26,7 @@ Continued references in [UNIGE 14x050 - Deep Learning](https://fleuret.org/dlc/)
 
 ### Video Lectures
 Finished probability course and started statistics course.
-* [Harvard Statistics 110 Probability, Lecture 28 - 34](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
+* [Harvard Statistics 110 Probability, Lecture 27 - 34](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
 * [MIT 18.650 Statistics for Applications, Lecture 1](https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)
 
 ### Practice
@@ -48,4 +48,4 @@ Started taking Couresera ML course as per recommended by multiple ML co-workers,
   * [(2016)[NLP] Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/pdf/1409.0473.pdf) Translation by RNN + Attention
 
 ### Video Lectures
-* [Harvard Statistics 110 Probability, Lecture 8 - 27](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
+* [Harvard Statistics 110 Probability, Lecture 8 - 26](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
