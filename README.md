@@ -1,6 +1,7 @@
 # Activity Log for AI Learning
 
 ## Todo
+### Papers
 * Prerequiste for DETR Panoptic Segementation section
   * [(2017)[CV] Feature Pyramid Networks for Object Detection](https://arxiv.org/pdf/1612.03144.pdf)
   * [(2019)[CV] Panoptic Feature Pyramid Networks](https://arxiv.org/pdf/1901.02446.pdf)
@@ -9,7 +10,9 @@
 * [(2022)[NLP] PaLM: Scaling Language Modeling with Pathways](https://arxiv.org/pdf/2204.02311.pdf)
 * [(April 2023)[CV] Segment Anything](https://arxiv.org/pdf/2304.02643v1.pdf)
 * [(April 2023)[LLM] Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/pdf/2304.03442.pdf)
-
+### Tools
+* [(April 2023) AutoGPT](https://github.com/Torantulino/Auto-GPT)
+* [(April 2023) BabyAGI](https://github.com/yoheinakajima/babyagi)
 
 ## April 2023
 
