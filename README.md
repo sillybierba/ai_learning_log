@@ -17,6 +17,8 @@
 ### Models
 * [(Feb 2023) LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/)
 * [(Mar 2023) Stanford Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)
+* [(Mar 2023) Vicuna](https://vicuna.lmsys.org/)
+* [(Apr 2023) GPT4All](https://github.com/nomic-ai/gpt4all)
 * [(Apr 2023) Koala](https://bair.berkeley.edu/blog/2023/04/03/koala/)
 * [(Apr 2023) Dolly 2.0](https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm)
 
