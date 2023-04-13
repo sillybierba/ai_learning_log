@@ -14,7 +14,7 @@
 * [(Apr 2023) AutoGPT](https://github.com/Torantulino/Auto-GPT)
 * [(Apr 2023) BabyAGI](https://github.com/yoheinakajima/babyagi)
 
-### Models
+### Open Source LLMs
 * [(Feb 2023) LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/)
 * [(Mar 2023) Stanford Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)
 * [(Mar 2023) Vicuna](https://vicuna.lmsys.org/)
