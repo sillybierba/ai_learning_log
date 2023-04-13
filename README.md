@@ -10,10 +10,12 @@
 * [(2022)[NLP] PaLM: Scaling Language Modeling with Pathways](https://arxiv.org/pdf/2204.02311.pdf)
 * [(April 2023)[CV] Segment Anything](https://arxiv.org/pdf/2304.02643v1.pdf)
 * [(April 2023)[LLM] Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/pdf/2304.03442.pdf)
-### Tools
-* [(April 2023) AutoGPT](https://github.com/Torantulino/Auto-GPT)
-* [(April 2023) BabyAGI](https://github.com/yoheinakajima/babyagi)
-* [(April 2023) Dolly LLM](https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm)
+### Tools & Models
+* [(Feb 2023) LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/)
+* [(Mar 2023) Stanford Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)
+* [(Apr 2023) AutoGPT](https://github.com/Torantulino/Auto-GPT)
+* [(Apr 2023) BabyAGI](https://github.com/yoheinakajima/babyagi)
+* [(Apr 2023) Dolly 2.0](https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm)
 
 ## April 2023
 
