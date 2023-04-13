@@ -13,6 +13,7 @@
 ### Tools
 * [(April 2023) AutoGPT](https://github.com/Torantulino/Auto-GPT)
 * [(April 2023) BabyAGI](https://github.com/yoheinakajima/babyagi)
+* [(April 2023) Dolly LLM](https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm)
 
 ## April 2023
 
