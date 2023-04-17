@@ -3,8 +3,6 @@
 ## Additional Resources
 ### Papers
 * Prerequiste for DETR Panoptic Segementation section
-  * [(2017)[CV] Feature Pyramid Networks for Object Detection](https://arxiv.org/pdf/1612.03144.pdf)
-  * [(2019)[CV] Panoptic Feature Pyramid Networks](https://arxiv.org/pdf/1901.02446.pdf)
   * [(2018)[CV] Focal Loss for Dense Object Detection](https://arxiv.org/pdf/1708.02002.pdf)
 * [(2019)[CV] Self-Attention Generative Adversarial Networks](https://arxiv.org/pdf/1805.08318.pdf)
 * [(2022)[NLP] PaLM: Scaling Language Modeling with Pathways](https://arxiv.org/pdf/2204.02311.pdf)
@@ -40,6 +38,7 @@ Continued references in [UNIGE 14x050 - Deep Learning](https://fleuret.org/dlc/)
   * [(2017)[CV] (FPN) Feature Pyramid Networks for Object Detection](https://arxiv.org/pdf/1612.03144.pdf)
   * [(2018)[CV] Mask R-CNN](https://arxiv.org/pdf/1703.06870.pdf)
   * [(2019)[CV] Panoptic Segmentation](https://arxiv.org/pdf/1801.00868.pdf)
+  * [(2019)[CV] Panoptic Feature Pyramid Networks](https://arxiv.org/pdf/1901.02446.pdf)
 
 
 ### Video Lectures
