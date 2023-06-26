@@ -1,0 +1,29 @@
+600:
+Train Acc 97.62%
+Val Acc 96.48%
+Test Acc 96.95%
+
+500:
+Train Acc 97.64%
+Val Acc 96.40%
+Test Acc 96.97%
+
+400:
+Train Acc 97.45%
+Val Acc 96.26%
+Test Acc 96.79%
+
+300:
+Train Acc 97.40%
+Val Acc 96.34%
+Test Acc 96.82%
+
+200:
+Train Acc 97.38%
+Val Acc 96.22%
+Test Acc 96.75%
+
+100:
+Train Acc 97.06%
+Val Acc 96.00%
+Test Acc 96.47%
